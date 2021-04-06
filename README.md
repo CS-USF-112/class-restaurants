@@ -1,5 +1,5 @@
 # restaurants
-List of favorite SF restaurants
+List of favorite restaurants
 
  NAME | RESTAURANT | CITY
 ---|---|---
