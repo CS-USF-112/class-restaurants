@@ -6,4 +6,4 @@ List of favorite restaurants
 Lisa Leese | Flour + Water | San Francisco
 Jason Smith | Chachacha | San Francisco
 Blake McNulty | Charter Oak | Napa
-Taylor Macnamara | Ebisu | San Francisco, CA
+Taylor Macnamara | Ebisu | San Francisco
