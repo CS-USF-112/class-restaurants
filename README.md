@@ -12,3 +12,4 @@ Sreeram Veerapaneni | Burma Burma | Dublin
 Mia Cruz | Ramen Hiroshi | Walnut Creek
 Shafiqur "Nick" Khan | The Rooftop | DUMBO, New York
 Katrina Casil | Little Napoli | Carmel
+Zezhi Chen | Jiafu | Foshan
