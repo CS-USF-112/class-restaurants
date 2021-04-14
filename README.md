@@ -14,3 +14,4 @@ Shafiqur "Nick" Khan | The Rooftop | DUMBO, New York
 Katrina Casil | Little Napoli | Carmel
 Zezhi Chen | Jiafu | Foshan
 Nick Eastham | Ramen Ganijin | Sebastopol
+Vicki Young | T4 | Fremont
