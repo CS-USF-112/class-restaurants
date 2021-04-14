@@ -15,3 +15,4 @@ Katrina Casil | Little Napoli | Carmel
 Zezhi Chen | Jiafu | Foshan
 Nick Eastham | Ramen Ganijin | Sebastopol
 Vicki Young | T4 | Fremont
+Chloe Chin | Amakara | Dublin
