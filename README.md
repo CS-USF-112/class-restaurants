@@ -17,3 +17,4 @@ Nick Eastham | Ramen Ganijin | Sebastopol
 Vicki Young | T4 | Fremont
 Chloe Chin | Amakara | Dublin
 Isaiah Palacios | Lokma | San Francisco
+Duncan Birdsall | Marufuku | San Francisco
