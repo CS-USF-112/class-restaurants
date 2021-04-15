@@ -18,3 +18,4 @@ Vicki Young | T4 | Fremont
 Chloe Chin | Amakara | Dublin
 Isaiah Palacios | Lokma | San Francisco
 Duncan Birdsall | Marufuku | San Francisco
+Sofia Chawick | Mensho Tokoyo | San Francisco
