@@ -10,7 +10,7 @@ Taylor Macnamara | Ebisu | San Francisco
 Aubrey Robinson | Alo | Toronto
 Sreeram Veerapaneni | Burma Burma | Dublin
 Mia Cruz | Ramen Hiroshi | Walnut Creek
-Shafiqur "Nick" Khan | The Rooftop | DUMBO, New York
+Nick A | The Rooftop | Brooklyn, New York
 Katrina Casil | Little Napoli | Carmel
 Zezhi Chen | Jiafu | Foshan
 Nick Eastham | Ramen Ganijin | Sebastopol
