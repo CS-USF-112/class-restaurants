@@ -19,3 +19,4 @@ Chloe Chin | Amakara | Dublin
 Isaiah Palacios | Lokma | San Francisco
 Duncan Birdsall | Marufuku | San Francisco
 Sofia Chawick | Mensho Tokoyo | San Francisco
+Daniel Agee | Pike's Place | Seattle
