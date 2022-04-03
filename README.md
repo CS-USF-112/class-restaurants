@@ -21,4 +21,4 @@ Duncan Birdsall | Marufuku | San Francisco
 Sofia Chawick | Mensho Tokoyo | San Francisco
 Daniel Agee | Pike's Place | Seattle
 Chloe Ramirez | L&L | San Francisco
-Flory Alcarez | Saison | San Fracisco
+Flory Alcarez | Saison | San Francisco
