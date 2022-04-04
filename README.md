@@ -23,3 +23,4 @@ Daniel Agee | Pike's Place | Seattle
 Chloe Ramirez | L&L | San Francisco
 Flory Alcarez | Saison | San Francisco
 Eric Yao | Bob Chinn's | Chicago
+Calvin Tan | Ma's Dim Sum and Cafe | San Francisco
