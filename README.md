@@ -26,4 +26,6 @@ Eric Yao | Bob Chinn's | Chicago
 Calvin Tan | Ma's Dim Sum and Cafe | San Francisco
 Karina Bhavsar | Roma Antica | San Francisco
 Steven Li | In-N-Out Burger | San Francisco
+Matthew Del Toro Eddy | None | N/A
 Lance Santerre | Original Joe's | San Francisco
+
