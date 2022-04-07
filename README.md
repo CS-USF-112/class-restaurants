@@ -15,7 +15,7 @@ Katrina Casil | Little Napoli | Carmel
 Zezhi Chen | Jiafu | Foshan
 Nick Eastham | Ramen Ganijin | Sebastopol
 Vicki Young | T4 | Fremont
-Chloe Chin | Amakara | Dublin
+Chloe Chin | Amakara | Dublin, CA
 Isaiah Palacios | Lokma | San Francisco
 Duncan Birdsall | Marufuku | San Francisco
 Sofia Chawick | Mensho Tokoyo | San Francisco
