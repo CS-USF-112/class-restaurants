@@ -8,7 +8,7 @@ Jason Smith | Chachacha | San Francisco
 Blake McNulty | Charter Oak | Napa
 Taylor Macnamara | Ebisu | San Francisco
 Aubrey Robinson | Alo | Toronto
-Sreeram Veerapaneni | Burma Burma | Dublin
+Sreeram Veerapaneni | Burma Burma | Dublin, CA
 Mia Cruz | Ramen Hiroshi | Walnut Creek
 Nick A | The Rooftop | Brooklyn, New York
 Katrina Casil | Little Napoli | Carmel
