@@ -8,14 +8,14 @@ Jason Smith | Chachacha | San Francisco
 Blake McNulty | Charter Oak | Napa
 Taylor Macnamara | Ebisu | San Francisco
 Aubrey Robinson | Alo | Toronto
-Sreeram Veerapaneni | Burma Burma | Dublin
+Sreeram Veerapaneni | Burma Burma | Dublin, CA
 Mia Cruz | Ramen Hiroshi | Walnut Creek
 Nick A | The Rooftop | Brooklyn, New York
 Katrina Casil | Little Napoli | Carmel
 Zezhi Chen | Jiafu | Foshan
 Nick Eastham | Ramen Ganijin | Sebastopol
 Vicki Young | T4 | Fremont
-Chloe Chin | Amakara | Dublin
+Chloe Chin | Amakara | Dublin, CA
 Isaiah Palacios | Lokma | San Francisco
 Duncan Birdsall | Marufuku | San Francisco
 Sofia Chawick | Mensho Tokoyo | San Francisco
@@ -29,4 +29,5 @@ Steven Li | In-N-Out Burger | San Francisco
 Matthew Del Toro Eddy | None | N/A
 Lance Santerre | Original Joe's | San Francisco
 Sunny Marquez | PANDA EXPRESS | Hacienda Heights
-
+Noah Cavestany | Udon Mugizo | San Francisco
+Maxwell Lubarsky | Il Casaro | San Francisco
