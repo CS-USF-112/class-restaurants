@@ -28,5 +28,6 @@ Karina Bhavsar | Roma Antica | San Francisco
 Steven Li | In-N-Out Burger | San Francisco
 Matthew Del Toro Eddy | None | N/A
 Lance Santerre | Original Joe's | San Francisco
+Sunny Marquez | PANDA EXPRESS | Hacienda Heights
 Noah Cavestany | Udon Mugizo | San Francisco
 Maxwell Lubarsky | Il Casaro | San Francisco
