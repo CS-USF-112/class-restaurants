@@ -31,3 +31,4 @@ Lance Santerre | Original Joe's | San Francisco
 Sunny Marquez | PANDA EXPRESS | Hacienda Heights
 Noah Cavestany | Udon Mugizo | San Francisco
 Maxwell Lubarsky | Il Casaro | San Francisco
+Jaycee Pang | Cinderall Bakery | San Francisco
