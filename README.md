@@ -33,3 +33,4 @@ Noah Cavestany | Udon Mugizo | San Francisco
 Maxwell Lubarsky | Il Casaro | San Francisco
 Jaycee Pang | Cinderall Bakery | San Francisco
 Param Sodhi | Burma Superstar | San Franciisco
+Kyle Osborn | Yashichi Ramen | Osaka
