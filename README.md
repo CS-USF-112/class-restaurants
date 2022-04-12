@@ -41,3 +41,4 @@ Vanessa Le | Toyama Sushi | San Francisco
 Karina Bhavsar | Roma Antica | San Francisco
 Eric Yao | Bob Chin's | Chicago
 Junyuan Zhang | Deaho | San Francisco
+Tiffany Wilson | Sushi House | Alameda
