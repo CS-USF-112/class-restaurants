@@ -42,3 +42,4 @@ Karina Bhavsar | Roma Antica | San Francisco
 Eric Yao | Bob Chin's | Chicago
 Junyuan Zhang | Deaho | San Francisco
 Tiffany Wilson | Sushi House | Alameda
+Anzel de Asis | Banana Island | Daly City 
