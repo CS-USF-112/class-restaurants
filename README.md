@@ -37,3 +37,4 @@ Benjamin Holderbein | Firewings | Davis
 Param Sodhi | Burma Superstar | San Francisco
 hgamracy | Earls | Edmonton
 Ijuarez3 | ChickFilla | San Francisco
+Karina Bhavsar | Roma Antica | San Francisco
