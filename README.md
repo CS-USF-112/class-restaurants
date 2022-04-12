@@ -44,3 +44,4 @@ Junyuan Zhang | Deaho | San Francisco
 Tiffany Wilson | Sushi House | Alameda
 Anzel de Asis | Banana Island | Daly City 
 Esha Dupuguntla | Uncle Boys | San Francisco
+Ashna Ghuman | Denica's | Castro Valley
