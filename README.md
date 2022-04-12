@@ -22,7 +22,6 @@ Sofia Chawick | Mensho Tokoyo | San Francisco
 Daniel Agee | Pike's Place | Seattle
 Chloe Ramirez | L&L | San Francisco
 Flory Alcarez | Saison | San Francisco
-Eric Yao | Bob Chinn's | Chicago
 Calvin Tan | Ma's Dim Sum and Cafe | San Francisco
 Karina Bhavsar | Roma Antica | San Francisco
 Steven Li | In-N-Out Burger | San Francisco
